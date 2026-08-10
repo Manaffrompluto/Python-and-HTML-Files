@@ -1,8 +1,8 @@
 print("Scramble project!")
 print("There will be six jumbled words, pick one!")
-print("Each jumbled word will make 3 words!")
-print("Also, when only if ur typing in an unscrambled word, use only small letters or it causes errors! Thx!")
-print("Last thing, if u enter an incorrect word, just to make it harder, RESTART. But itz still only three words, so it shouldn't be dat harsh!")
+print("1. Each jumbled word will make 3 words!")
+print("2. When ur typing in an unscrambled word, use only small letters or it causes errors!")
+print("3. Lastly, if u enter an incorrect word, just to make it harder, RESTART.")
 choice = input("Choose from ARTP, ERAD, WOLEB, ARBED, ESATT or EATS!: ")
 play = True
 attempt = 1
